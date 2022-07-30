@@ -46,14 +46,14 @@ label{
     font-family: monospace;
 }
 
-.status{
+#status{
     width: 11%;
     margin: 30px;
     font-size: 25px;
     font-family: monospace;
 }
 
-.object_found{
+#object_found{
     width: 10%;
     margin: 30px;
     font-size: 25px;
